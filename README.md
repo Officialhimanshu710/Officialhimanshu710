@@ -8,7 +8,7 @@
 
 🤝 **I’m looking for help with** Advanced Python-based validation layers for fraud detection and improving structured JSON extraction from LLMs.
 
-🌱 **I’m currently learning** Orchestrating complex workflows using **n8n**, deep-diving into **Vision-Language Models**, and building faster inference pipelines with the **Groq API**.
+🌱 **I’m currently learning** Orchestrating complex workflows using **n8n**, deep-diving into **Vision-Language Models**, and building faster inference pipelines with the **Multi-Model(llm) API**.
 
 ⚡ **Fun fact** I treat coding like the gym—consistency is key! I've been a dedicated fitness athlete for 3+ years, bringing the same discipline to debugging complex backends as I do to my heavy lifting sessions.
 
