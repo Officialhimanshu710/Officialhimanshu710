@@ -1,6 +1,6 @@
 # <div align="center"><br>Hi, I'm Himanshu Dulhe! 👋<br>Generative AI Engineer | RAG & AI Automation Expert<br></div>
 
-<br>I am a Final Year B.Tech Computer Science(2026) student building production-ready LLM systems. I specialize in creating scalable RAG pipelines, fine-tuned open-source models, and intelligent AI automation workflows using n8n.
+<br>I am a B.Tech Computer Science(2026) graduate building production-ready LLM systems. I specialize in creating scalable RAG pipelines, fine-tuned open-source models, and intelligent AI automation workflows using n8n.
 
 🔭 **I’m currently working on** high-impact Generative AI projects like a **RAG-Powered Invoice Compliance System** using Vision LLMs and an **Intelligent Support Escalation Engine**.
 
